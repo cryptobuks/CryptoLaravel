@@ -1,0 +1,44 @@
+
+/*Dashboard*/
+
+/*
+Main color: #28a745
+
+
+ */
+
+
+.custom-control{
+	display: inline-block;
+}
+
+.scroll-section{
+	height: 190px;
+	overflow-y: scroll;
+	font-family: monospace;
+}
+.border-dotted{
+	border-bottom: 1px dotted #28a745;
+	cursor: default;
+}
+.post-text
+{
+	width: 100%;
+	min-width: 40px;
+	display: contents;
+}
+#profile-pic:hover
+{
+	cursor: pointer;
+	border: 1px #28a745 solid;
+}
+
+.pagination
+{
+	display: inline-flex;
+}
+
+table
+{
+	font-size: 12px;
+}
